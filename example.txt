@@ -1,0 +1,24 @@
+/* Example copy-and paste this HTML code in any post or page to hide and show some text, images or url
+  
+//added: order of div classes is important! See Javascript
+<div class="contingut_complert">(en) A title or any previous text. (cat) Títol
+<div class="itm_simple_hide">[ -i ]</div>
+<div class="itm_simple_show">[ +i ]</div>
+(en) Text which is positioned besides the clickable text. Instead of [ - ] or [ + ] you could place a button. (cat) Posa texte clicable, urls o imatges
+<div class="itm_simple_hidden">Hiddent text or ulr, images also. (cat) Texte amagat, url o imatges.
+</div>
+</div>
+
+//added
+<div class="itm_simple_slidetoggle"> Click here to toggle )</div>
+<div class="itm_simple_hidden">Any text, url and images to hide.</div>	
+
+// deprecated
+<div class="contingut_complert">
+<div class="contingut_obre">Click here to open text +)</div>
+<div class="contingut_ocult">Any text, url and images to hide.</div>
+<div class="contingut_tanca">(Click here to close text -)</div>
+CONTINGUT MOSTRAT
+</div>
+			
+*/
